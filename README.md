@@ -1,73 +1,38 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+Bem vindo Recrutador !
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+Aqui você encontrar um desafio técnico realizado por mim : EmmanuelBMS
+com uma stack que não havia conhecimento nenhum até o dia 13/05/2024 onde recebi esse desafio.
+Desde esse dia pude imergir nesse estudo, adoro um desafio, apesar da hora consegui entregar ainda no dia 16/05/2024, ainda sou júnior mas sinto que posso atingir meus objetivos.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+Tenho muito pra aprender e me sinto preparado para a vaga e também muito empolgado para ingressar no time !
 
-## Description
+De antemão agradeço muito a oportunidade, foi um aprendizado incrível, vocês são feras.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Repositorio criado para adquirir novos conhecimentos sobre outros frameworks
 
-## Installation
+tempo de experiência com essa stack:
 
-```bash
-$ npm install
-```
+Git: 2 anos
+Nestjs: 3 dias
+Docker: 3 dias
+JWT: 1 ano
+Api REST: 1 ano
+Swagger: 3 dias
+PostgresSQL: 3 dias
+TypeORM: 3 dias
+TypeScript: 1 ano
+Redis: 1 dia (infelizmente não consegui implementar por minha falta de tempo, mas dei uma boa olhada e gostei muito do que vi, tem uma capacidade enorme de melhorar o desempenho da aplicação)
+Testes: tenho experiência de cerca de 1 ano não pratico com frequência, mas consigo desenrolar.
+Heroku: 1 ano de experiência
 
-## Running the app
 
-```bash
-# development
-$ npm run start
+Soft Skills: 
+Aprendo rápido,
+Auto didata,
+Adoro trabalhar em equipe,
+Comunicativo,
+Garra.
 
-# watch mode
-$ npm run start:dev
 
-# production mode
-$ npm run start:prod
-```
+Muito obrigado ! Espero poder bater um papo em breve com vocês !
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
