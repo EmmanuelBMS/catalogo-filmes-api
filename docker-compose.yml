@@ -1,0 +1,14 @@
+version: '4.30'
+
+services:
+  postgres:
+    image: postgres:latest
+    restart: always
+    container_name: catalogo-filmes-api-db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: catalogo-filmes-api
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+
